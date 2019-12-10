@@ -46,7 +46,7 @@ https://blog.csdn.net/u013486414/article/details/102961171
 
 https://github.com/nju-kaoyan/nju_csai_kaoyan
 
-2、计算机网络：自顶向下第七版 英文版 配套PPT资料等
+## 计算机网络：自顶向下第七版 英文版 配套PPT资料等
 
 http://www-net.cs.umass.edu/kurose-ross-ppt-7e/
 
@@ -54,15 +54,19 @@ https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th
 
 https://github.com/myk502/Top-Down-Approach
 
-3、计算机网络：自顶向下 第六版 英文版 配套网络
+## 公共课资料仓库
 
-https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html
+https://github.com/JackeyLea/UNGEE
 
-4、复试经验贴
+NJUCS为南京大学专业课考研资料，UNGEE为考研公共课资料（包括数学一、英语一、政治）
+
+有兴趣的可以去看看
+
+## 复试经验贴
 
 https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
 
-5、龙书答案
+## 龙书答案
 
 https://github.com/fool2fish/dragon-book-exercise-answers
 
@@ -111,6 +115,12 @@ PDF软件为 master editor of PDF
 ![avater](./img/clone20191121.png)
 
 可以看出第一次下载较慢，第二次下载时就正常了。
+
+测试日期：2019-12-10
+
+![avater](./img/gitee_clone.png)
+
+码云clone测试，2M/s的速度可以接收。
 
 8、因为有的PDF文件过大，所以大于30M的文件上传到百度网盘和微云中，有空自取
 
@@ -222,7 +232,7 @@ QQ：1768478912 （往事深处的少年）
 
 ***所谓的数据结构1800题，其实是由机械工业出版社出版的《算法与数据结构 考研试题精析》 陈守孔 胡潇琨 李玲编著。在淘宝可以买到。本仓库中的文档根据内容判断，应该是第二版或者更早的第一版的。***
 
-![avater](./img/算法与数据结构考研试题精析.jpg)
+![avater](./img/算法与数据结构考研试题精析.png)
 
 ## 2.复试
 
@@ -254,7 +264,7 @@ QQ：1768478912 （往事深处的少年）
 
 具体内容见刷题软件界面。
 
-地址：https://github.com/JackeyLea/NJUCS-exercises 这个仓库包含845专业课题目
+地址：https://github.com/JackeyLea/NJUCS-exercise 这个仓库包含845专业课题目
 
 地址：https://github.com/JackeyLea/Interview_questions 这个仓库包含C++等语言面试题目等
 
@@ -268,7 +278,7 @@ QQ：1768478912 （往事深处的少年）
 
 1、《数据结构（用面向对象方法与C++描述）》（第二版），殷人昆等，清华大学出版社；
 
-![avater](./img/数据结构(第2版).jpg)
+![avater](./img/数据结构(第2版).png)
 
 ***带星号的一般不会考***
 
@@ -298,7 +308,7 @@ QQ：1768478912 （往事深处的少年）
 
 3、操作系统教程（第5版），费翔林，骆斌编著，高等教育出版社；
 
-![avater](./img/操作系统教程.jpg)
+![avater](./img/操作系统教程.png)
 
 重点包括：中断、内存管理、PV操作（N生产者N消费者/共浴/理发师）
 
@@ -308,13 +318,11 @@ QQ：1768478912 （往事深处的少年）
 
 4、计算机系统基础（第二版），袁春风 编著，机械工业出版社 ；
 
-![avater](./img/计算机系统基础.jpg)
-
-![avater](./img/计算机系统基础背景.jpg)
+![avater](./img/计算机系统基础（第二版）.png)
 
 同时，配套的习题册，据说会考到。
 
-![avater](./img/计算机系统基础习题册.jpg)
+![avater](./img/计算机系统基础习题解答与教学指导.png)
 
 关注第2/3/5/7/8章的选择题、第6章的分析应用题
 
@@ -332,7 +340,7 @@ B站也有视频
 
 5、计算机网络——自顶向下方法 (6th)。James F. Kurose, Keith W. Ross编著，机械工业出版社；
 
-![avater](./img/计算机网络.jpg)
+![avater](./img/计算机网络：自顶向下.png)
 
 应用层（http）、传输层（TCP）、网络层（IpV4及相关协议）、链路层（以太网）、SSL
 
@@ -348,7 +356,7 @@ B站也有视频
 
 1、离散数学（第2版），屈婉玲，高等教育出版社；
 
-![avater](./img/离散数学.jpg)
+![avater](./img/离散数学.png)
 
 逻辑、计数计术、群论、图论、边收缩、非降路径
 
@@ -360,11 +368,11 @@ B站也有视频
 
 2、离散数学及其应用（原书第6版），Rosen，机械工业出版社；
 
-![avater](./img/离散数学及其应用.jpg)
+![avater](./img/离散数学及其应用.png)
 
 3、程序设计教程 用C++语言描述，陈家俊，机械工业出版社；
 
-![avater](./img/程序设计教程.jpg)
+![avater](./img/程序设计教程.png)
 
 推荐 黄宇算法教材（从别人经验上看来的）
 
@@ -374,7 +382,7 @@ B站也有视频
 
 4、编译原理，龙书，机械工业出版社；
 
-![avater](./img/编译原理.jpg)
+![avater](./img/编译原理.png)
 
 DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
@@ -390,7 +398,7 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 ## 硕士研究生课表
 
-
+待补充
 
 ## 路线-地铁
 
