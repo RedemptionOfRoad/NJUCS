@@ -2,9 +2,21 @@
 
 ## 本仓库所有内容仅供参考，其真实性、有效性等请自行判断。
 
-## 2019年12月3日起，将所有的期末考试习题、模拟题、书本题目转移到配套刷题软件的数据库中。在下一次仓库重置时将会删除这些资料。如果需要刷题或者题库，可以使用刷题软件导出为题库PDF。
+## 本仓库包含南京大学计算机专业考研的资料（公共课和专业课）
+
+包含数学一、英语一、政治、算法设计与分析、数据结构、计算机系统基础、操作系统教程、计算机网络：自顶向下方法
 
 ## 一段时间之后，因为上传缓存会导致仓库的大小为实际的2倍以上，所以会在某个时间点重置仓库。将之前的提交删除，清空缓存，以保证仓库不会太大。
+
+## 刷题软件已经基本完成，我将尝试将期末考试、模拟题、其他题库的题目添加到软件数据库中，如果效果不好或者出现其他问题会将资料重新添加回来。
+
+## 如果需要重置之前的资料可以到码云下载，可以达到2M/S的速度。
+
+## 本仓库的参考书目PDF及其他PDF文件可以到百度云或者微云下载。（文件待上传）
+
+## 书本参考答案会不断上传
+
+## 本仓库所有内容完全免费，但是有的资料会有水印
 
 # 目录
 
@@ -45,22 +57,6 @@ https://blog.csdn.net/u013486414/article/details/102961171
 ## CS AI 仓库
 
 https://github.com/nju-kaoyan/nju_csai_kaoyan
-
-## 计算机网络：自顶向下第七版 英文版 配套PPT资料等
-
-http://www-net.cs.umass.edu/kurose-ross-ppt-7e/
-
-https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed
-
-https://github.com/myk502/Top-Down-Approach
-
-## 公共课资料仓库
-
-https://github.com/JackeyLea/UNGEE
-
-NJUCS为南京大学专业课考研资料，UNGEE为考研公共课资料（包括数学一、英语一、政治）
-
-有兴趣的可以去看看
 
 ## 复试经验贴
 
@@ -122,13 +118,7 @@ PDF软件为 master editor of PDF
 
 码云clone测试，2M/s的速度可以接收。
 
-8、因为有的PDF文件过大，所以大于30M的文件上传到百度网盘和微云中，有空自取
-
-百度网盘：
-
-微云：
-
-9、如果阁下想添加资料至本仓库，请遵循以下原则：
+8、如果阁下想添加资料至本仓库，请遵循以下原则：
 
 (1) 无法上传至仓库的资料必须完全免费，比如说B站的视频、没有版权需要自己处理的PDF、在线微课等等；
 
@@ -136,7 +126,7 @@ PDF软件为 master editor of PDF
 
 (3) 暂时还没有想到，因为除了我还没有人添加资料。
 
-10、课后习题答案采用Markdown文件编写，可以导出为PDF打印。
+9、课后习题答案采用Markdown文件编写，可以导出为PDF打印。
 
 ## 仓库大小
 
@@ -280,7 +270,11 @@ QQ：1768478912 （往事深处的少年）
 
 ### 数学一
 
+不推荐张宇
+
 ### 英语一
+
+推荐百词斩
 
 ### 政治
 
@@ -293,6 +287,8 @@ QQ：1768478912 （往事深处的少年）
 免费使用，但是每天刷一套题，如果多刷就需要up点；
 
 每次刷完题就会得到up点，如果1000题刷完会得到10000点。
+
+我已经快要刷完1000题了，开心
 
 ### 《数据结构（用面向对象方法与C++描述）》（第二版），殷人昆等，清华大学出版社；
 
@@ -308,7 +304,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.bilibili.com/video/av38920216/">西北大学 - 数据结构 （国家级精品课，好课啊，推荐）</a>
 
-课后习题参考答案在独立仓库中
+课后习题参考答案在：<a href="https://github.com/JackeyLea/DS_exercises">DS_exercises</a>
 
 ### 算法设计与分析，黄宇，机械工业出版社；
 
@@ -322,7 +318,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.bilibili.com/video/av64662783/">北京大学-算法设计与分析（国家级精品课）</a>
 
-课后习题参考答案在独立仓库中
+课后习题参考答案在：<a href=""></a>
 
 ### 操作系统教程（第5版），费翔林，骆斌编著，高等教育出版社；
 
@@ -332,7 +328,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.icourse163.org/course/NJU-1001571004">计算机操作系统</a>
 
-课后习题参考答案在独立仓库中
+课后习题参考答案在：<a href="https://github.com/JackeyLea/IOS_exercise">IOS_exercise</a>
 
 ### 计算机系统基础（第二版），袁春风 编著，机械工业出版社 ；
 
@@ -354,7 +350,7 @@ QQ：1768478912 （往事深处的少年）
 
 B站也有视频
 
-课后习题参考答案在独立仓库中
+课后习题参考答案在：<a href="https://github.com/JackeyLea/ICS_exercise">ICS_exercise</a>
 
 ### 计算机网络——自顶向下方法 (6th)。James F. Kurose, Keith W. Ross编著，机械工业出版社；
 
@@ -366,7 +362,7 @@ B站也有视频
 
 <a href="https://www.bilibili.com/video/av58999844?from=search&seid=1062244817660809468">国防科技大学-计算机网络（国家级精品课）</a>
 
-中文版参考答案在这里：<a href="https://github.com/JackeyLea/CN-exercise">CN-exercise</a>
+中文版参考答案在：<a href="https://github.com/JackeyLea/CN-exercise">CN-exercise</a>
 
 版本号：V2.0.2019.11.23
 
@@ -447,6 +443,8 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 [3] https://blog.csdn.net/huang1024rui/article/details/49154507
 
 [4] 思维导图.https://github.com/SSHeRun/CS-Xmind-Note
+
+[5] 计算机网络：自顶向下第七版 英文版资料 http://www-net.cs.umass.edu/kurose-ross-ppt-7e/ https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed https://github.com/myk502/Top-Down-Approach
 
 很幸运我们在此相会，感谢阁下对本资料库的厚爱
 
