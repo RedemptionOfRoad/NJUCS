@@ -256,7 +256,7 @@ QQ：1768478912 （往事深处的少年）
 
 具体内容见刷题软件界面。
 
-地址：https://github.com/JackeyLea/NJUCS-exercise 这个仓库包含845专业课题目
+地址：https://github.com/JackeyLea/NJUCS_exercise 这个仓库包含845专业课题目
 
 地址：https://github.com/JackeyLea/Interview_questions 这个仓库包含C++等语言面试题目等
 
