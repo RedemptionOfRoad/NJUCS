@@ -17,6 +17,7 @@
     - [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](#%e5%88%b7%e4%ba%86%e5%87%a0%e5%8d%83%e9%81%93%e7%ae%97%e6%b3%95%e9%a2%98%e8%bf%99%e4%ba%9b%e6%88%91%e7%a7%81%e8%97%8f%e7%9a%84%e5%88%b7%e9%a2%98%e7%bd%91%e7%ab%99%e9%83%bd%e5%9c%a8%e8%bf%99%e9%87%8c%e4%ba%86)
     - [CS AI 仓库](#cs-ai-%e4%bb%93%e5%ba%93)
     - [复试经验贴](#%e5%a4%8d%e8%af%95%e7%bb%8f%e9%aa%8c%e8%b4%b4)
+    - [参考书目课后习题参考答案](#%e5%8f%82%e8%80%83%e4%b9%a6%e7%9b%ae%e8%af%be%e5%90%8e%e4%b9%a0%e9%a2%98%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88)
   - [说明](#%e8%af%b4%e6%98%8e)
   - [仓库大小](#%e4%bb%93%e5%ba%93%e5%a4%a7%e5%b0%8f)
   - [联系方式](#%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f)
@@ -84,6 +85,12 @@ https://github.com/nju-kaoyan/nju_csai_kaoyan
 ### 复试经验贴
 
 https://github.com/ThyrixYang/nju_cs_kaoyan_19/wiki
+
+### 参考书目课后习题参考答案
+
+https://github.com/JackeyLea/exercises_answers
+
+包括计算机网络、操作系统教程、计算机系统基础、数据结构、算法设计与分析课后习题参考答案
 
 ## 说明
 
@@ -281,9 +288,7 @@ QQ：1768478912 （往事深处的少年）
 
 具体内容见刷题软件界面。
 
-地址：https://github.com/JackeyLea/NJUCS_exercise 这个仓库包含845专业课题目
-
-地址：https://github.com/JackeyLea/Interview_questions 这个仓库包含C++等语言面试题目等
+地址：https://github.com/JackeyLea/exercises_answers/NJUCS 这个仓库包含845专业课模拟题题目
 
 ## 考研科目细节
 
@@ -331,7 +336,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.bilibili.com/video/av38920216/">西北大学 - 数据结构 （国家级精品课，好课啊，推荐）</a>
 
-课后习题参考答案在：<a href="https://github.com/JackeyLea/DS_exercises">DS_exercises</a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/DS">DS</a>
 
 #### 算法设计与分析，黄宇，机械工业出版社
 
@@ -345,7 +350,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.bilibili.com/video/av64662783/">北京大学-算法设计与分析（国家级精品课）</a>
 
-课后习题参考答案在：<a href=""></a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/DAA">DAA</a>
 
 #### 操作系统教程（第5版），费翔林，骆斌编著，高等教育出版社
 
@@ -355,7 +360,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.icourse163.org/course/NJU-1001571004">计算机操作系统</a>
 
-课后习题参考答案在：<a href="https://github.com/JackeyLea/IOS_exercise">IOS_exercise</a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/IOS">IOS</a>
 
 #### 计算机系统基础（第二版），袁春风 编著，机械工业出版社
 
@@ -377,7 +382,7 @@ QQ：1768478912 （往事深处的少年）
 
 B站也有视频
 
-课后习题参考答案在：<a href="https://github.com/JackeyLea/ICS_exercise">ICS_exercise</a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/ICS">ICS</a>
 
 #### 计算机网络——自顶向下方法 (7th)。James F. Kurose, Keith W. Ross编著，机械工业出版社
 
@@ -389,7 +394,7 @@ B站也有视频
 
 <a href="https://www.bilibili.com/video/av58999844?from=search&seid=1062244817660809468">国防科技大学-计算机网络（国家级精品课）</a>
 
-中文版参考答案在：<a href="https://github.com/JackeyLea/CN-exercise">CN-exercise</a>
+中文版参考答案在：<a href="https://github.com/JackeyLea/exercises_answer/CN">CN</a>
 
 版本号：V2.0.2019.11.23
 
