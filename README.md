@@ -105,6 +105,8 @@ https://www.zhihu.com/question/303896489
 
 https://www.zhihu.com/question/309601783
 
+以及其他的问题
+
 ## 说明
 
 - 本仓库所有内容仅供参考，其真实性、有效性等请自行判断。
@@ -192,6 +194,18 @@ PDF软件为 master editor of PDF
 QQ：1768478912 （往事深处的少年）
 
 交流群：550150534
+
+你可以在QQ找到的计算机/考研/南京大学交流群我都加过，基本上没什么卵用。
+
+这个群是我迄今为止见到最好的，其他群里面有价值的资料我都盗下来了。
+
+可以看到，内容基本上都一样。
+
+所谓的内部资料基本上没有，王道、百度网盘等等都可以找到。
+
+由此我可以想到淘宝上面卖的东西是什么了。
+
+当然了，一些什么学长的资料还不如多看看参考书目课后习题。
 
 ![avater](./img/交流群号.jpg)
 
@@ -301,7 +315,9 @@ QQ：1768478912 （往事深处的少年）
 
 具体内容见刷题软件界面。
 
-地址：https://github.com/JackeyLea/exercises_answers/NJUCS 这个仓库包含845专业课模拟题题目
+地址：<a href="https://github.com/JackeyLea/NJUCS_exercise">NJUCS_exercise</a> 
+
+这个仓库包含845专业课模拟题题目
 
 ## 考研科目细节
 
@@ -341,7 +357,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.bilibili.com/video/av38920216/">西北大学 - 数据结构 （国家级精品课，好课啊，推荐）</a>
 
-课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/DS">DS</a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers">DS</a>
 
 #### 算法设计与分析，黄宇，机械工业出版社
 
@@ -355,7 +371,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.bilibili.com/video/av64662783/">北京大学-算法设计与分析（国家级精品课）</a>
 
-课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/DAA">DAA</a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers">DAA</a>
 
 #### 操作系统教程（第5版），费翔林，骆斌编著，高等教育出版社
 
@@ -365,7 +381,7 @@ QQ：1768478912 （往事深处的少年）
 
 <a href="https://www.icourse163.org/course/NJU-1001571004">计算机操作系统</a>
 
-课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/IOS">IOS</a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers">IOS</a>
 
 #### 计算机系统基础（第二版），袁春风 编著，机械工业出版社
 
@@ -387,7 +403,7 @@ QQ：1768478912 （往事深处的少年）
 
 B站也有视频
 
-课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers/ICS">ICS</a>
+课后习题参考答案在：<a href="https://github.com/JackeyLea/exercises_answers">ICS</a>
 
 #### 计算机网络——自顶向下方法 (7th)。James F. Kurose, Keith W. Ross编著，机械工业出版社
 
@@ -399,7 +415,7 @@ B站也有视频
 
 <a href="https://www.bilibili.com/video/av58999844?from=search&seid=1062244817660809468">国防科技大学-计算机网络（国家级精品课）</a>
 
-中文版参考答案在：<a href="https://github.com/JackeyLea/exercises_answer/CN">CN</a>
+中文版参考答案在：<a href="https://github.com/JackeyLea/exercises_answers">CN</a>
 
 版本号：V2.0.2019.11.23
 
