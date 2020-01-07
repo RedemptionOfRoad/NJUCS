@@ -464,7 +464,7 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 微云：
 
-百度云：
+百度云：链接: https://pan.baidu.com/s/1cDnLnTLHJNlwft7Dg8-CsA 提取码: w9uj
 
 书目列表：
 
