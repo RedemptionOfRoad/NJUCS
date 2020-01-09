@@ -464,7 +464,7 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 
 微云：https://share.weiyun.com/5I4W3fs
 
-百度云：链接: https://pan.baidu.com/s/1cDnLnTLHJNlwft7Dg8-CsA 提取码: w9uj
+百度云：链接: https://pan.baidu.com/s/1z7Kz8UfFg6pzvIcGPnxTQQ 提取码: nbud 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 书目列表：
 
@@ -480,6 +480,7 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 - 算法导论 原书第2版.机械工业出版社
 - 计算机网络 第7版.谢希仁编
 - IT名企算法与数据结构题目最优解.左程云编
+- 离散数学习题解答与学习指导第3版.屈婉玲编
 
 其他一些每年都发售的王道类图书就不上传了
 
