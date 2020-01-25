@@ -64,6 +64,7 @@
     - [校车班车列表](#%e6%a0%a1%e8%bd%a6%e7%8f%ad%e8%bd%a6%e5%88%97%e8%a1%a8)
     - [南大机构电话](#%e5%8d%97%e5%a4%a7%e6%9c%ba%e6%9e%84%e7%94%b5%e8%af%9d)
   - [参考资料](#%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99)
+  - [结束语](#%e7%bb%93%e6%9d%9f%e8%af%ad)
 
 ## 友情链接
 
@@ -187,10 +188,6 @@ PDF软件为 master editor of PDF
 
 3、参考书目PDF等等
 
-微云：https://share.weiyun.com/5I4W3fs
-
-百度云：链接: https://pan.baidu.com/s/1z7Kz8UfFg6pzvIcGPnxTQQ 提取码: nbud 复制这段内容后打开百度网盘手机App，操作更方便哦
-
 书目列表：
 
 - 工程数学 线性代数 第六版.同济大学数学系编
@@ -209,6 +206,8 @@ PDF软件为 master editor of PDF
 - 845真题.pdf
 
 其他一些每年都发售的王道类图书就不上传了
+
+网盘链接到下面找，每次添加文件都要更新网盘链接太麻烦了
 
 ## 下载方法
 
@@ -573,6 +572,8 @@ DFA-NFA、LL分析法、LR分析法、SDD-SDT、翻译、回填
 [6] 初试英语、数学资料是从新东方论坛盗来的
 
 http://bbs.koolearn.com/forum.php?mod=viewthread&tid=5664088&extra=&page=1
+
+## 结束语
 
 很幸运我们在此相会，感谢阁下对本资料库的厚爱
 
